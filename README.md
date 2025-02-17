@@ -1,6 +1,6 @@
 ## Welcome to CryptMatrix :milky_way:
 
-This repository contains the codebase for our recent research on privacy-preserving computation and data integrity protection based on secure multiparty computation and zero-knowledge proof. We are committed to continuously open-sourcing our work and welcome collaborations, forks, and discussions!
+This repository contains the codebase for our recent research on privacy-preserving computation and data integrity protection based on secure multi-party computation and zero-knowledge proof. We are committed to continuously open-sourcing our work and welcome collaborations, forks, and discussions!
 
 ### Highlighted Projects
 
@@ -22,7 +22,7 @@ This repository contains the codebase for our recent research on privacy-preserv
   
   [ Paper | [Code: DelaerlessFSS](https://github.com/CryptMatrix/DealerlessFSS) ]
 
-### Contact us
+### Contact Us
 
 Hanxiao Chen, hanxiao.chen@uestc.edu.cn
 
