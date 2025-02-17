@@ -1,4 +1,32 @@
-## Hi there 👋
+## Welcome to CryptMatrix :milky_way:
+
+This repository contains the codebase for our recent research on privacy-preserving computation and data integrity protection based on secure multiparty computation and zero-knowledge proof. We are committed to continuously open-sourcing our work and welcome collaborations, forks, and discussions!
+
+### Highlighted Projects
+
+- __Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning__ (USENIX Sexurity'24)
+
+  A novel scalable ZK proof framework for non-linear mathematical functions in machine learning based on LUT techniques.
+  
+  [ [Paper](https://www.usenix.org/conference/usenixsecurity24/presentation/hao-meng-scalable) | [Code: ZKMath](https://github.com/CryptMatrix/ZKMath) ]
+
+- __Unbalanced Circuit-PSI from Oblivious Key-Value Retrieval__ (USENIX Sexurity'24)
+
+  An efficient construction for unbalanced circuit-PSI based on Oblivious Key-Value Retrieval.
+  
+  [ [Paper](https://eprint.iacr.org/2023/1636) | [Code: UnbalancedPSI](https://github.com/CryptMatrix/UnbalancedPSI) ]
+
+- __Distributed Function Secret Sharing and Applications__ (NDSS'25)
+
+  Distributed key generation schemes for FSS-based arithmetic distributed point function and distributed comparison function.
+  
+  [ Paper | [Code: DelaerlessFSS](https://github.com/CryptMatrix/DealerlessFSS) ]
+
+### Contact us
+
+Hanxiao Chen, hanxiao.chen@uestc.edu.cn
+
+Pengzhi Xing, p.xing@std.uestc.edu.cn
 
 <!--
 **CryptMatrix/CryptMatrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
