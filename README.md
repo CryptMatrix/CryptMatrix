@@ -20,7 +20,7 @@ This repository contains the codebase for our recent research on privacy-preserv
 
   Distributed key generation schemes for FSS-based arithmetic distributed point function and distributed comparison function.
   
-  [ Paper | [Code: DelaerlessFSS](https://github.com/CryptMatrix/DealerlessFSS) ]
+  [ [Paper](https://www.ndss-symposium.org/ndss-paper/distributed-function-secret-sharing-and-applications/) | [Code: DelaerlessFSS](https://github.com/CryptMatrix/DealerlessFSS) ]
 
 ### Contact Us
 
