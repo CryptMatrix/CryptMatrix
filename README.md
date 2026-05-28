@@ -22,6 +22,12 @@ This repository contains the codebase for our recent research on privacy-preserv
   
   [ [Paper](https://www.ndss-symposium.org/ndss-paper/distributed-function-secret-sharing-and-applications/) | [Code: DelaerlessFSS](https://github.com/CryptMatrix/DealerlessFSS) ]
 
+- __Enhanced Private Set Union from Secret-Shared Private Membership Test__ (USENIX Sexurity'26)
+
+  Two implementations of enhanced Private Set Union from Secret-Shared Private Membership Test.
+  
+  [ [Paper]() | [Code: ePSU-from-ssPMT](https://github.com/CryptMatrix/ePSU-from-ssPMT) ]
+
 ### Contact Us
 
 Hanxiao Chen, hanxiao.chen@uestc.edu.cn
