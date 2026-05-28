@@ -24,7 +24,8 @@ This repository contains the codebase for our recent research on privacy-preserv
 
 - __Enhanced Private Set Union from Secret-Shared Private Membership Test__ (USENIX Sexurity'26)
 
-  Two implementations of enhanced Private Set Union from Secret-Shared Private Membership Test.
+  Enhanced PSU framework from secret-shared private membership test, with two efficient implementations optimized for computation and communication efficiency.
+
   
   [ [Paper]() | [Code: ePSU-from-ssPMT](https://github.com/CryptMatrix/ePSU-from-ssPMT) ]
 
